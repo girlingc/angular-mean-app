@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { CrudService } from 'src/app/service/crud.service';
+import { CrudService } from './../../service/crud.service';
 
 @Component({
   selector: 'app-books-list',
